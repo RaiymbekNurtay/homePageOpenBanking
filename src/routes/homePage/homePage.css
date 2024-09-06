@@ -1,0 +1,23 @@
+.firstDiv {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+h2{
+    padding-left: calc(var(--mantine-spacing-xl) * 1.5);
+}
+
+p{
+    padding-left: calc(var(--mantine-spacing-xl) * 1.5);
+}
+
+.buttons{
+    padding: calc(var(--mantine-spacing-xl) * 1.5);
+}
+
+.paddingLeft{
+    padding-left: calc(var(--mantine-spacing-xl) * 1.5);
+}
+  
